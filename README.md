@@ -1,7 +1,6 @@
-### Hi there 👋
+### Heliooo there 👋
 
+Currently working on web dev applications
+Python is heart and soul
 
-
-- 🔭 I’m currently working on Python Developent
-- 🌱 I’m currently learning WebDeV
 
