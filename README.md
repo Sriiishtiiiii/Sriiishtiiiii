@@ -18,7 +18,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishtichamoli&show_icons=true&theme=onedark&title_color=383838&locale=en&layout=compact" alt="srishtichamoli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtichamoli&" alt="srishtichamoli" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SrishtiChamoli&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)
 ![resize-1732554343815536411PostmanPostmanFlowsBeginner20241125](https://github.com/user-attachments/assets/0ceaf637-d334-4d00-abe6-460c2f3b8c69)
