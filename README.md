@@ -20,8 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtichamoli&" alt="srishtichamoli" /></p>
 
-[![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)!
-
+[![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)
 ![resize-1732554343815536411PostmanPostmanFlowsBeginner20241125](https://github.com/user-attachments/assets/0ceaf637-d334-4d00-abe6-460c2f3b8c69)
 
 
