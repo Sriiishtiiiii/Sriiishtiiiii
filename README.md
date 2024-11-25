@@ -21,4 +21,3 @@ I am a fullstack developer from India who is also interested in AI/ML
 ![](https://github-trophies.vercel.app/?username=SrishtiChamoli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SrishtiChamoli&icon=0&color=0)](https://visitcount.itsvg.in)
