@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srishti Chamoli</h1>
+[T. Veerarajan - Probability, Statistics And Random Processes (3rd Edition)-Tata McGraw-Hill Educat-1.pdf](https://github.com/user-attachments/files/17906457/T.Veerarajan.-.Probability.Statistics.And.Random.Processes.3rd.Edition.-Tata.McGraw-Hill.Educat-1.pdf)<h1 align="center">Hi 👋, I'm Srishti Chamoli</h1>
 <h3 align="center">I am a frontend developer from India who is also interested in AI/ML</h3>
 
 - 🌱 I’m currently learning **AI/ML, MERN**
@@ -20,8 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtichamoli&" alt="srishtichamoli" /></p>
 
-[![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)
+[![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)![WhatsApp Image 2024-11-24 at 10 51 44 PM](https://github.com/user-attachments/assets/b4a0d44b-bcca-4d0e-befe-cc4ea8d57685)
 
+![resize-1732554343815536411PostmanPostmanFlowsBeginner20241125](https://github.com/user-attachments/assets/0ceaf637-d334-4d00-abe6-460c2f3b8c69)
 
-![Postman - Postman Flows - Beginner - 2024-11-25](https://github.com/user-attachments/assets/d619552d-9a45-42bb-83fc-77a2eec26cc7)
 
