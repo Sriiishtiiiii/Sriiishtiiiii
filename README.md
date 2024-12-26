@@ -19,4 +19,7 @@ I am a fullstack developer from India who is also interested in AI/ML
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=SrishtiChamoli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## Hactober 2K24
+[![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)
 ---
