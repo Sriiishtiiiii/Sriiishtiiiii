@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Srishti Chamoli
 I am a fullstack developer from India who is also interested in AI/ML
 
 🌱 I’m currently learning AI/ML, MERN
