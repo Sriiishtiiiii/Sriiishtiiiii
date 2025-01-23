@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srishti+Chamoli!;" />
 </h1>
 
-<center># 💫Srishti Chamoli</center>
-<center>I am a fullstack developer from India who is also interested in AI/ML</center>
+<center>**I am a fullstack developer from India who is also interested in AI/ML**</center>
+
 
 🌱 I’m currently learning AI/ML, MERN
 
