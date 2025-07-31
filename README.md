@@ -45,4 +45,4 @@
 ---
 
 
-[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/82800082-0733-4ea9-81ce-6bd5c863deb2?tab=badges&badge=first-design)
+<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="120">
