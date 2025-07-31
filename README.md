@@ -43,3 +43,6 @@
 ## Hactober 2K24
 [![An image of @srishtichamoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtichamoli)](https://holopin.io/@srishtichamoli)
 ---
+
+
+[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/82800082-0733-4ea9-81ce-6bd5c863deb2?tab=badges&badge=first-design)
